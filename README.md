@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirHosseinAkb?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact)](https://github.com/AmirHosseinAkb/github-readme-stats)
