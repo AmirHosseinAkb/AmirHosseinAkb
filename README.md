@@ -40,8 +40,16 @@ _______________________________
 
 ## 📊Analytics
 _______________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
 
 
