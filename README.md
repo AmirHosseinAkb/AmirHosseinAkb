@@ -51,10 +51,12 @@ _______________________________
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true" width="400px"/>
 </a>
 
-
-<a href="https://github.com/AmirHosseinAkb">
+<p align="center">
+  <a href="https://github.com/AmirHosseinAkb">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true"/>
-</a>
+  </a>
+</p>
+
 
 
 
