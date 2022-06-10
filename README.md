@@ -1,8 +1,11 @@
 ### Hi there 👋
-Im Amirhossein Akbari
-<!--
-**AmirHosseinAkb/AmirHosseinAkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___________________________
+👋Im a .Net Developer using asp.net core for building web apps
 
+📔I'm addicted to coding and learning new things about it
+
+🙏Thank you for visiting my github page
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,7 +31,4 @@ Here are some ideas to get you started:
 
 ## 📊Analytics
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirHosseinAkb?cardType=level&theme=github-dark)](https://github.com/AmirHosseinAkb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact)](https://github.com/AmirHosseinAkb)
-## Statistics
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinAkb&theme=blueberry_duo)](https://github.com/AmirHosseinAkb)
