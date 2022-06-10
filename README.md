@@ -43,19 +43,21 @@ _______________________________
 
 
 <a href="https://github.com/AmirHosseinAkb">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true" width="450px" />
 </a>
+
 
 <a href="https://github.com/AmirHosseinAkb">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true" width="400px"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true" width="450px"/>
 </a>
 
 
-<p align="center">
-  <a href="https://github.com/AmirHosseinAkb">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true"/>
-  </a>
-</p>
+<a href="https://github.com/AmirHosseinAkb">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true"/>
+</a>
+
+
+
 
 
 
