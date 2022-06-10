@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirHosseinAkb?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirHosseinAkb)](https://github.com/anuraghazra/github-readme-stats)
