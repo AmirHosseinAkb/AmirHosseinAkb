@@ -43,8 +43,8 @@ _______________________________
 
 <p align="center">
  <a href="https://github.com/AmirHosseinAkb">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true" width="440px"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true" width="440px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true" width="430px"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true" width="430px"/>
  </a>
   <a href="https://github.com/AmirHosseinAkb" width="50%">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true"/>
