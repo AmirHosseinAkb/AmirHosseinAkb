@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊Analytics
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirHosseinAkb?cardType=level&theme=github-dark)](https://github.com/AmirHosseinAkb)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinAkb&theme=blueberry_duo)](https://github.com/AmirHosseinAkb)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirHosseinAkb?cardType=level&theme=github-dark)](https://github.com/AmirHosseinAkb)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinAkb&theme=blueberry_duo)](https://github.com/AmirHosseinAkb)
+                                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&theme=tokyonight) 
 
