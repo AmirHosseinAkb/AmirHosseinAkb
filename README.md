@@ -1,6 +1,9 @@
-![Dev_animadoGIF](https://user-images.githubusercontent.com/90219535/173122270-f794e0de-7b48-420b-82e1-0f4a150f96b4.gif)
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90219535/173124316-6f271082-6e25-4e49-929b-6389dcbefd3f.gif"/>
+</p>
+  
 ### Hi there 👋
 ___________________________
 👋Im a .Net Developer using asp.net core for building web apps
