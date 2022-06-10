@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ⚙️Languages And Tools
+_______________________________
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
 ## 📊Analytics
+_______________________________
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb)
