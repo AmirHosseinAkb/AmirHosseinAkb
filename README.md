@@ -43,7 +43,7 @@ _______________________________
 
 
 <a href="https://github.com/AmirHosseinAkb">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true" width="400px"/>
 </a>
 
 <a href="https://github.com/AmirHosseinAkb">
