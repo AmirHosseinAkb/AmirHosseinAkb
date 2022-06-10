@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
 ## 📊Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical)](https://github.com/AmirHosseinAkb) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinAkb&theme=radical)](https://github.com/AmirHosseinAkb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical)](https://github.com/AmirHosseinAkb)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinAkb&show_icons=true&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirHosseinAkb&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinAkb&layout=compact&theme=radical&hide_border=true)](https://github.com/AmirHosseinAkb)
 
 
